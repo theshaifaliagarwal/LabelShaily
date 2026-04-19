@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+/* ── Fonts ── */
+@theme inline {
+  --font-playfair: var(--font-playfair);
+  --font-inter: var(--font-inter);
+}
+
+/* ── Color overrides ── */
+:root {
+  --background: #faf6ef;
+  --foreground: #1a0e06;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* ── Flame animations ── */
+@keyframes flicker {
+  0%, 100% { transform: scaleX(1)   scaleY(1)    rotate(-1deg); opacity: 1;    }
+  20%       { transform: scaleX(1.1) scaleY(1.08) rotate(2deg);  opacity: 0.95; }
+  40%       { transform: scaleX(0.9) scaleY(0.95) rotate(-2deg); opacity: 1;    }
+  60%       { transform: scaleX(1.05) scaleY(1.05) rotate(1deg); opacity: 0.97; }
+  80%       { transform: scaleX(0.95) scaleY(1.02) rotate(-1deg); opacity: 1;   }
+}
+
+@keyframes flicker-fast {
+  0%, 100% { transform: scaleX(1)   scaleY(1)    rotate(-2deg); opacity: 1;    }
+  33%       { transform: scaleX(1.08) scaleY(1.1) rotate(2deg);  opacity: 0.9;  }
+  66%       { transform: scaleX(0.92) scaleY(0.95) rotate(-1deg); opacity: 1;   }
+}
+
+/* Hero flame layers */
+.hero-flame-outer {
+  background: radial-gradient(ellipse 60% 100% at 50% 80%, #fb923c, #f97316, #fbbf24 40%, transparent 75%);
+  border-radius: 50% 50% 35% 35% / 60% 60% 40% 40%;
+  animation: flicker 1.8s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+.hero-flame-inner {
+  background: radial-gradient(ellipse 60% 100% at 50% 80%, #fff7ed, #fef3c7, #fde68a 50%, transparent 80%);
+  border-radius: 50% 50% 35% 35% / 60% 60% 40% 40%;
+  animation: flicker-fast 1.1s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+/* Logo flame */
+.flame-logo {
+  background: radial-gradient(ellipse 60% 100% at 50% 80%, #fb923c, #f97316, #fbbf24 40%, transparent 75%);
+  border-radius: 50% 50% 35% 35% / 60% 60% 40% 40%;
+  animation: flicker 2s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+/* Card flames */
+.card-flame-outer {
+  background: radial-gradient(ellipse 60% 100% at 50% 80%, #fb923c, #f97316, #fde68a 50%, transparent 80%);
+  border-radius: 50% 50% 35% 35% / 60% 60% 40% 40%;
+  animation: flicker 1.6s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+.card-flame-inner {
+  background: radial-gradient(ellipse 60% 100% at 50% 80%, #fff7ed, #fef9c3, transparent 70%);
+  border-radius: 50% 50% 35% 35% / 60% 60% 40% 40%;
+  animation: flicker-fast 0.9s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+/* ── Scroll-smooth ── */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ── Typography ── */
+.font-playfair {
+  font-family: var(--font-playfair), Georgia, serif;
+}
+
+.font-inter {
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+/* ── Line clamp ── */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ── Product detail page image ── */
+.product-candle-wrapper {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 12px;
+}

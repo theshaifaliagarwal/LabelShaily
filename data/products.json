@@ -1,0 +1,780 @@
+[
+  {
+    "id": "4",
+    "slug": "roseglow-glass-candle",
+    "name": "RoseGlow Glass Candle",
+    "price": 199,
+    "weight": "105g",
+    "dimensions": {
+      "length": "5",
+      "width": "5",
+      "height": "4"
+    },
+    "shortDescription": "Elegant rose-shaped scented candles in premium glass holders, designed to create a warm and romantic ambiance for any space.",
+    "longDescription": "Transform your space with the timeless elegance of the RoseGlow Glass Candle Set. Featuring delicately crafted rose-shaped candles in soft, soothing hues, each piece is housed in a premium ribbed glass holder that enhances its warm glow.\r\n\r\nPerfect for romantic evenings, festive décor, or everyday luxury, these candles create a calming and inviting atmosphere. The floral design adds a touch of sophistication, while the gentle illumination elevates your surroundings effortlessly.\r\n\r\nWhether used as a centerpiece or gifted to someone special, this candle set blends beauty, warmth, and elegance into one stunning experience.\r\n\r\nWhy you’ll love it:\r\n✔ Elegant rose-shaped design\r\n✔ Premium glass holders\r\n✔ Perfect for romantic & festive décor\r\n✔ Ideal for gifting",
+    "scent": "Rose",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "4-v1",
+        "color": "Multi colour",
+        "gradientFrom": "#ffe4e6",
+        "gradientVia": "#fb7185",
+        "gradientTo": "#be123c",
+        "imageUrl": "/products/roseglow-glass-candle-v1-1776601372852.jpeg",
+        "imageAlt": "rose shaped scented candles in glass holders glowing on table for romantic home decor ambiance",
+        "images": [
+          {
+            "url": "/products/roseglow-glass-candle-v1-1776601372852.jpeg",
+            "alt": "rose shaped scented candles in glass holders glowing on table for romantic home decor ambiance"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Rose Shaped Scented Candles in Glass Holders | Luxury Decorative Candle Set for Home & Gifting",
+    "seoDescription": "Shop elegant rose-shaped scented candles in premium glass holders. Perfect for romantic décor, gifting, and creating a warm ambient glow.",
+    "seoKeywords": "rose candles, scented candles in glass, decorative candle set, romantic candles for home, aesthetic candles for decor, luxury candles India, glass candle holders with wax, handmade candles India, gift candle set, floral candles, premium scented candles, home decor candles India, elegant candle set, romantic dinner candles, designer candles set, rose shape candles",
+    "order": 0
+  },
+  {
+    "id": "2",
+    "slug": "lumiglow-fairy-light-candle",
+    "name": "LumiGlow Fairy Light Candle",
+    "price": 799,
+    "weight": "180g",
+    "dimensions": {
+      "length": "6",
+      "width": "6",
+      "height": "6"
+    },
+    "shortDescription": "A stunning glass bowl candle featuring warm fairy lights embedded in gel wax, topped with a smooth wax layer. Creates a cozy, glowing ambiance perfect for décor and gifting.",
+    "longDescription": "Elevate your space with the elegant charm of this LumiGlow Fairy Light Candle. Designed in a stylish glass bowl, this candle combines the beauty of soft glowing fairy lights with the warmth of a real flame.\r\n\r\nThe base features embedded LED fairy lights within clear gel wax, creating a magical illuminated effect that can be easily controlled with a switch. Topped with a smooth wax layer, it adds a classic candle finish while enhancing the overall aesthetic.\r\n\r\nPerfect for home décor, festive setups, romantic evenings, or thoughtful gifting, this candle brings together modern lighting and traditional warmth in one unique piece.",
+    "scent": "Vanilla",
+    "material": "Gel & Soy Wax",
+    "variants": [
+      {
+        "id": "2-v1",
+        "color": "Cream",
+        "gradientFrom": "#e6d628",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "imageUrl": "/products/lumiglow-fairy-light-candle-v1-1776596363834.jpeg",
+        "imageAlt": "glass bowl candle with fairy lights and wax top glowing warm decorative candle for home decor",
+        "images": [
+          {
+            "url": "/products/lumiglow-fairy-light-candle-v1-1776596363834.jpeg",
+            "alt": "glass bowl candle with fairy lights and wax top glowing warm decorative candle for home decor"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Fairy Light Gel Wax Candle in Glass Bowl | Decorative LED Candle for Home & Gifting",
+    "seoDescription": "Shop decorative gel wax candles with built-in fairy lights in a glass bowl. Perfect for home décor, gifting, and creating a warm ambient glow.",
+    "seoKeywords": "fairy light candle, gel wax candle with lights, decorative candle with LED lights, glass bowl candle, aesthetic candles for home decor, unique candles for gifting, LED candles India, luxury decorative candles, ambient light candle, handmade candles India, glowing candles for home, festive decorative candle, modern home decor candle, candle with fairy lights, premium scented candles",
+    "order": 1
+  },
+  {
+    "id": "1",
+    "slug": "wine-candle",
+    "name": "Wine Candle",
+    "price": 249,
+    "weight": "105g",
+    "dimensions": {
+      "length": "4",
+      "width": "4",
+      "height": "10"
+    },
+    "shortDescription": "A beautifully crafted gel wax candle designed to resemble a glass of red wine, infused with a delicate rose fragrance. Perfect for adding a romantic and elegant touch to any space.",
+    "longDescription": "Bring elegance and charm to your space with this unique gel wax candle, styled like a glass of rich red wine. Hand-poured with clear gel wax and detailed to mimic the look of a refreshing beverage with ice-like textures, this candle is as visually striking as it is aromatic.\r\n\r\nInfused with a soft and soothing rose fragrance, it creates a warm, romantic ambiance—ideal for dinners, special occasions, or simply elevating your home décor. The transparent glass design enhances its realistic appeal, making it a perfect centerpiece or a thoughtful gift.\r\n\r\nWhether you're looking to decorate, relax, or surprise someone special, this candle blends artistry with fragrance for a truly delightful experience.",
+    "scent": "Rose",
+    "material": "Gel Wax",
+    "variants": [
+      {
+        "id": "1-v1",
+        "color": "Red",
+        "gradientFrom": "#f51414",
+        "gradientVia": "#f9311a",
+        "gradientTo": "#e6360a",
+        "imageUrl": "/products/wine-candle-v1-1776594007835.jpeg",
+        "imageAlt": "Gel wax wine glass candle with rose fragrance for home décor",
+        "images": [
+          {
+            "url": "/products/wine-candle-v1-1776594007835.jpeg",
+            "alt": "Gel wax wine glass candle with rose fragrance for home décor"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Gel Wax Wine Glass Candle with Rose Fragrance | Decorative Scented Candle for Home & Gifting",
+    "seoDescription": "Shop unique gel wax candles designed like a wine glass with a soothing rose fragrance. Perfect for home décor, romantic settings, and gifting.",
+    "seoKeywords": "gel wax candle, wine glass candle, rose scented candle, decorative candles, handmade candles, scented candles for home, aesthetic candles for home decor, unique candles for gifting, romantic scented candles, luxury candles online, glass candles decorative, home decor candles India, designer candles, premium scented candles, wine glass gel candle with rose fragrance, realistic drink candle decoration, romantic candle for dinner setup, unique gift candle for her, rose fragrance decorative candle, aesthetic red candle in glass, handmade gel candle India, decorative table candle for home",
+    "order": 2
+  },
+  {
+    "id": "5",
+    "slug": "crimson-bloom-glass-candle",
+    "name": "Crimson Bloom Glass Candle",
+    "price": 499,
+    "weight": "400g",
+    "dimensions": {
+      "length": "9",
+      "width": "9",
+      "height": "11"
+    },
+    "shortDescription": "An elegant glass candle topped with a delicate red rose, perfect for adding warmth and festive charm to your space.",
+    "longDescription": "Bring home a touch of sophistication and celebration with our Rose Glow Glass Candle. Encased in a beautifully textured transparent glass holder, this candle features a handcrafted wax base topped with a stunning red rose design.\r\n\r\nPerfect for festive occasions like Diwali, romantic evenings, or home décor, this candle creates a soothing ambiance with its soft, warm glow. The combination of floral aesthetics and elegant glass makes it an ideal centerpiece or gifting option.\r\n\r\nWhether placed on a dining table, pooja setup, or living room décor, this candle enhances every setting with grace and light.\r\n\r\nKey Features:\r\n🌹 Handcrafted red rose wax design on top\r\n🪟 Premium transparent textured glass container\r\n🕯️ Clean and long-lasting burn\r\n🎁 Ideal for gifting and festive décor\r\n🏡 Perfect for home decoration, pooja, and celebrations",
+    "scent": "Cedar & Warm Amber",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "5-v1",
+        "color": "White & Red",
+        "gradientFrom": "#fef3c7",
+        "gradientVia": "#f59e0b",
+        "gradientTo": "#92400e",
+        "imageUrl": "/products/cedar-wood-v1-1776601772451.jpeg",
+        "imageAlt": "Transparent glass candle with red rose wax top surrounded by diyas and flower petals for Diwali decoration",
+        "images": [
+          {
+            "url": "/products/cedar-wood-v1-1776601772451.jpeg",
+            "alt": "Transparent glass candle with red rose wax top surrounded by diyas and flower petals for Diwali decoration"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Rose Candle in Glass Jar – Decorative Diwali Candle with Floral Design",
+    "seoDescription": "Buy elegant rose candles in glass jars for Diwali décor and gifting. Handcrafted floral candles that add warmth and beauty to your home.",
+    "seoKeywords": "crimson bloom candle, rose glass candle, decorative floral candle, transparent glass candle, red rose candle, handmade candles India, festive candles, Diwali decorative candle, luxury home candles, scented rose candle, gift candles for women, premium wax candle, floral wax candle, elegant glass candle, romantic decor candle",
+    "order": 3
+  },
+  {
+    "id": "3294851d-9799-4dbe-b5c7-2bec0455ec2b",
+    "slug": "lovers-glow-rose-candle",
+    "name": "Lover’s Glow Rose Candle",
+    "price": 249,
+    "weight": "138g",
+    "dimensions": {
+      "length": "6",
+      "width": "6",
+      "height": "3"
+    },
+    "shortDescription": "A romantic rose-shaped candle in elegant glass holders, crafted to create a warm and intimate ambiance.",
+    "longDescription": "Set the mood for love and elegance with our Lover’s Glow Rose Candle Duo. Featuring two delicately handcrafted rose-shaped candles in premium transparent glass holders, this set is designed to elevate romantic moments.\r\n\r\nThe soft glow, paired with the artistic floral design, creates a soothing and intimate atmosphere—perfect for date nights, anniversaries, or thoughtful gifting. Accented beautifully in red and blush tones, these candles symbolize love, warmth, and timeless charm.\r\n\r\nWhether you're decorating a romantic setup or gifting someone special, this candle duo adds a luxurious and heartfelt touch to every moment.\r\n\r\nKey Features\r\n🌹 Handcrafted rose-shaped wax design\r\n🪟 Elegant transparent glass containers\r\n🕯️ Clean and long-lasting burn\r\n❤️ Perfect for romantic décor and gifting\r\n🎁 Ideal for anniversaries, Valentine’s Day & special occasions",
+    "scent": "Lavender",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "da8a763c-f704-48d8-a410-c3a4ff89d1a9",
+        "color": "Multicolor",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/lovers-glow-rose-candle-v1-1776611018752.jpeg",
+            "alt": "Romantic rose candles in glass holders with petals and pearls creating an intimate candlelight setting"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Romantic Rose Candle Set in Glass – Luxury Candle Duo for Love & Gifting",
+    "seoDescription": "Shop romantic rose candles in elegant glass holders. Perfect for anniversaries, Valentine’s Day, and creating a warm, intimate ambiance.",
+    "seoKeywords": "romantic candles set, rose candle duo, glass candle set, valentine candles, love theme candles, decorative romantic candles, scented rose candles, anniversary gift candles, couple candle set, luxury candles India, romantic home decor, date night candles, floral candles glass, premium candle gift set, aesthetic romantic candles",
+    "order": 4
+  },
+  {
+    "id": "9d1f816b-51e8-41c0-a03d-559f5795f8ba",
+    "slug": "rose-glow-shimmer-glass-candle",
+    "name": "Rose Glow Shimmer Glass Candle",
+    "price": 449,
+    "weight": "255g",
+    "dimensions": {
+      "length": "7",
+      "width": "7",
+      "height": "5"
+    },
+    "shortDescription": "A calming rose candle in a shimmering glass container, designed to create a spa-like and soothing ambiance.",
+    "longDescription": "Transform your space into a serene retreat with our Rose Glow Shimmer Glass Candle. Featuring a delicately crafted rose-shaped wax centerpiece, this candle is housed in a premium shimmery glass container that beautifully reflects light, enhancing its warm glow.\r\n\r\nInspired by spa aesthetics and relaxation rituals, this candle is perfect for unwinding after a long day. The subtle shine of the glass combined with the soft illumination creates a peaceful and luxurious atmosphere.\r\n\r\nIdeal for self-care routines, home décor, or thoughtful gifting, this candle is where elegance meets tranquility.\r\n\r\nKey Features\r\n🌹 Handcrafted rose-shaped wax design\r\n✨ Premium shimmery textured glass container\r\n🕯️ Soft, calming glow for relaxation\r\n🧘 Perfect for spa-like ambiance\r\n🎁 Ideal for gifting and self-care",
+    "scent": "Vanilla",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "528c5e06-0c29-41bb-b9ba-b7987ef68176",
+        "color": "White & Pink",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/rose-glow-shimmer-glass-candle-v1-1776611782357.jpeg",
+            "alt": "Rose candle in shimmering glass container with spa setting, towels, stones, and calming ambiance"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Shimmer Glass Rose Candle – Luxury Spa Candle for Relaxation & Home Décor",
+    "seoDescription": "Shop elegant rose candles in shimmering glass containers. Perfect for spa ambiance, relaxation, and premium home décor.",
+    "seoKeywords": "shimmer glass candle, spa candles, rose candle glass jar, relaxing candles, luxury spa candle, decorative glass candle, scented candles India, wellness candles, home spa decor, calming candles, handmade candles India, premium glass candles, self care candles, aromatherapy candles, elegant home decor candles",
+    "order": 5
+  },
+  {
+    "id": "6",
+    "slug": "pastel-bloom-ceramic-candle",
+    "name": "Pastel Bloom Ceramic Candle",
+    "price": 199,
+    "weight": "110g",
+    "dimensions": {
+      "length": "7",
+      "width": "7",
+      "height": "4"
+    },
+    "shortDescription": "Elegant floral candles set in premium ceramic containers, designed for a refined and festive home décor experience.",
+    "longDescription": "Add a touch of artistic elegance to your space with our Pastel Bloom Ceramic Candle Set. Each candle is beautifully handcrafted with intricate floral wax designs and housed in a smooth, reusable ceramic container that enhances both durability and aesthetic appeal.\r\n\r\nUnlike standard candle holders, the ceramic base offers a premium, heat-resistant finish while doubling as a décor piece even after the candle is used. The soft pastel tones—pink, lavender, blue, green, and peach—bring a calming yet festive charm, making this set perfect for Diwali décor, luxury gifting, or modern home styling.\r\n\r\nThis collection blends craftsmanship with functionality, giving you not just candles, but timeless décor accents.\r\n\r\nKey Features\r\n🌸 Handcrafted floral wax detailing\r\n🏺 Premium ceramic containers (reusable & heat-resistant)\r\n🎨 Soft pastel color palette\r\n🕯️ Clean, steady burn\r\n🎁 Ideal for premium gifting and décor",
+    "scent": "Lemongrass",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "6-v2",
+        "color": "Multicolour",
+        "gradientFrom": "#ede9fe",
+        "gradientVia": "#8b5cf6",
+        "gradientTo": "#4c1d95",
+        "imageUrl": "/products/pastel-blossom-candle-v1-1776602673932.jpeg",
+        "imageAlt": "Pastel floral candles in ceramic containers arranged on festive fabric with diyas and flower petals",
+        "images": [
+          {
+            "url": "/products/pastel-blossom-candle-v1-1776602673932.jpeg",
+            "alt": "Pastel floral candles in ceramic containers arranged on festive fabric with diyas and flower petals"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Pastel Floral Candles in Ceramic Containers – Luxury Decorative Candle Set for Gifting",
+    "seoDescription": "Shop premium floral candles in elegant ceramic containers. Perfect for festive décor, Diwali gifting, and luxury home styling.",
+    "seoKeywords": "ceramic candle set, floral ceramic candles, pastel candles ceramic, decorative candles in ceramic jars, luxury candle set India, Diwali candle set premium, handmade ceramic candles, reusable candle containers, aesthetic home decor candles, gift candle set ceramic, designer candles India, festive decor candles, premium floral candles, artisan candle set, home styling candles",
+    "order": 6
+  },
+  {
+    "id": "8fa72275-225d-44e6-a382-03649625a0e8",
+    "slug": "hidden-message-love-candle",
+    "name": "Hidden Message Love Candle",
+    "price": 599,
+    "weight": "400g",
+    "dimensions": {
+      "length": "7",
+      "width": "7",
+      "height": "6"
+    },
+    "shortDescription": "A romantic candle that reveals a hidden message as it burns—perfect for gifting, proposals, or special moments.",
+    "longDescription": "Turn an ordinary moment into something magical with our Hidden Message Love Candle. At first glance, it’s a beautifully crafted candle with a warm, soothing glow. But as the wax धीरे-धीरे melts, a secret message begins to appear, creating a delightful surprise for you or your loved one.\r\n\r\nThis candle is perfect for romantic gestures, anniversaries, birthdays, or even a unique proposal idea. The hidden message adds an emotional touch, making every burn a memorable experience. Made with high-quality wax for a clean, long-lasting burn, it not only smells great but also creates a cozy ambiance.\r\n\r\nWhether you're gifting someone special or treating yourself, this candle is more than just décor—it’s an experience filled with anticipation and joy.",
+    "scent": "Rose",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "16ce5edb-f016-4e43-8e52-899b6397b186",
+        "color": "White",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/hidden-message-love-candle-v1-1776616588261.jpeg",
+            "alt": "hidden message candle love reveal candle romantic surprise candle burning wax message reveal"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Hidden Message Love Candle | Surprise Reveal Romantic Gift",
+    "seoDescription": "Shop hidden message candles that reveal a surprise as they burn. Perfect romantic gift for anniversaries, proposals, and special moments.",
+    "seoKeywords": "hidden message candle, reveal candle, surprise candle gift, romantic candle, love message candle, proposal candle, unique gift candle, surprise reveal gift, romantic gifts India, scented candle gift, creative candle idea, anniversary candle, message reveal candle, hidden message gift, burning reveal candle",
+    "order": 7
+  },
+  {
+    "id": "ec84cc6f-3fc3-49c2-9602-2645338a5598",
+    "slug": "rangoli-mirror-tealight-holder",
+    "name": "Rangoli Mirror Tealight Holder",
+    "price": 199,
+    "weight": "50g",
+    "dimensions": {
+      "length": "10",
+      "width": "10",
+      "height": "2"
+    },
+    "shortDescription": "Handcrafted rangoli-style tealight holder with mirror work, designed to elevate festive décor with vibrant elegance.",
+    "longDescription": "Celebrate tradition with a touch of artistry using our Rangoli Mirror Tealight Holder. Inspired by classic Indian rangoli patterns, this handcrafted piece features vibrant colors, intricate mirror work, and decorative embellishments that beautifully reflect candlelight.\r\n\r\nDesigned to hold a standard tealight candle, this holder enhances the glow, creating a warm and festive ambiance. Whether used during Diwali, pooja ceremonies, or home décor styling, it adds a rich cultural charm to any setting.\r\n\r\nEach piece is uniquely crafted, making it not just a holder, but a statement décor element that brings light and tradition together.\r\n\r\nKey Features\r\n🪔 Designed for standard tealight candles\r\n🎨 Hand-painted rangoli-inspired design\r\n🪞 Mirror work for enhanced light reflection\r\n🧵 Decorative embellishments (stones & detailing)\r\n🎁 Perfect for festive décor and gifting",
+    "scent": "Lavender",
+    "material": "Paraffin Wax",
+    "variants": [
+      {
+        "id": "d6517a50-088e-43b9-b60a-9244b347fc0d",
+        "color": "Multicolor",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/rangoli-mirror-tealight-holder-v1-1776614419982.jpeg",
+            "alt": "Handcrafted rangoli mirror tealight holder with colorful design and decorative embellishments for Diwali décor"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "id": "2d45af6c-7d53-4a6f-89b4-85fe38a0ef3f",
+        "color": "Multicolor",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/rangoli-mirror-tealight-holder-v2-1776614419985.jpeg",
+            "alt": "Handcrafted rangoli mirror tealight holder with colorful design and decorative embellishments for Diwali décor"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "id": "0393b4cb-3d09-4504-9ae7-8c4aff6eb1cc",
+        "color": "Multicolor",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/rangoli-mirror-tealight-holder-v3-1776614419988.jpeg",
+            "alt": "Handcrafted rangoli mirror tealight holder with colorful design and decorative embellishments for Diwali décor"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "id": "03b8504c-50a5-47b3-aa1b-c67f1ea9621b",
+        "color": "Multicolor",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/rangoli-mirror-tealight-holder-v4-1776614419990.jpeg",
+            "alt": "Handcrafted rangoli mirror tealight holder with colorful design and decorative embellishments for Diwali décor"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "id": "cb8e5bd6-a4fb-4216-af90-3183fa72d44d",
+        "color": "Multicolor",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/rangoli-mirror-tealight-holder-v5-1776614419993.jpeg",
+            "alt": "Handcrafted rangoli mirror tealight holder with colorful design and decorative embellishments for Diwali décor"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Rangoli Mirror Tealight Holder – Decorative Diya Stand for Diwali & Festive Décor",
+    "seoDescription": "Shop handcrafted rangoli tealight holders with mirror work. Perfect for Diwali décor, pooja setups, and festive home decoration.",
+    "seoKeywords": "tealight holder India, rangoli candle holder, diya holder decorative, mirror tealight holder, Diwali diya stand, festive candle holder, handmade tealight holder, ethnic home decor India, decorative diya holder, pooja decor items, rangoli decor piece, mirror work diya holder, festival home decor, Indian handicraft decor, tealight stand",
+    "order": 8
+  },
+  {
+    "id": "b682f975-fc8b-4ed9-a799-515de0b62c40",
+    "slug": "pink-heart-gel-candle-romantic-floating-hearts-candle",
+    "name": "Pink Heart Gel Candle – Romantic Floating Hearts Candle",
+    "price": 249,
+    "weight": "200g",
+    "dimensions": {
+      "length": "5",
+      "width": "5",
+      "height": "6"
+    },
+    "shortDescription": "A charming pink gel candle with floating heart embeds, perfect for romantic décor and gifting.",
+    "longDescription": "Create a warm and romantic atmosphere with our Pink Heart Gel Candle, designed to capture love in every glow. This elegant candle features crystal-clear gel wax with soft pink tones and embedded heart shapes that appear to float beautifully inside the glass.\r\n\r\nAs the candle burns, the gentle flicker of the flame enhances the glowing hearts, making it perfect for date nights, anniversaries, or cozy evenings. Its aesthetic design makes it a lovely décor piece even when not lit.\r\n\r\nCrafted with care, this candle is ideal for gifting to loved ones or adding a romantic touch to your personal space. Whether you're celebrating a special moment or simply enjoying a calm evening, this candle adds warmth, beauty, and charm.",
+    "scent": "Rose",
+    "material": "Gel Wax",
+    "variants": [
+      {
+        "id": "56d37861-a1b7-4a28-8473-abdb6e3584ee",
+        "color": "Pink",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/pink-heart-gel-candle-romantic-floating-hearts-candle-v1-1776617654269.jpeg",
+            "alt": "pink heart gel candle romantic candle with floating hearts glass candle aesthetic love candle"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Pink Heart Gel Candle | Romantic Decorative Candle Gift",
+    "seoDescription": "Shop pink heart gel candles with floating heart designs. Perfect for romantic décor, gifting, and special occasions like anniversaries & Valentine’s Day.",
+    "seoKeywords": "heart gel candle, pink candle, romantic candle, love candle, floating hearts candle, decorative gel candle, aesthetic candle, gift candle for her, valentine candle, anniversary candle gift, handmade candle India, cute candle gift, glass jar candle, romantic decor candle, unique candle gift",
+    "order": 9
+  },
+  {
+    "id": "96fd1c1a-f2f0-4e01-bc54-437c9ece4f14",
+    "slug": "floral-artisan-candle-gift-box-handmade-decorative-candle-set",
+    "name": "Floral Artisan Candle Gift Box – Handmade Decorative Candle Set",
+    "price": 1099,
+    "weight": "440g",
+    "dimensions": {
+      "length": "21",
+      "width": "16",
+      "height": "5"
+    },
+    "shortDescription": "A beautifully curated set of floral and фигурine candles, perfect for gifting and adding an elegant touch to any space.",
+    "longDescription": "Make gifting extra special with our Floral Artisan Candle Gift Box, a thoughtfully curated collection of handcrafted candles designed to impress. This elegant set features a mix of floral-shaped candles and a delicate фигурine candle, all arranged beautifully in a premium gift box.\r\n\r\nEach candle is intricately detailed, showcasing blooming flowers and soft aesthetic tones that add warmth and charm to any setting. Whether used as décor or lit to create a cozy ambiance, this set brings both beauty and functionality together.\r\n\r\nPerfect for birthdays, anniversaries, festive gifting, or special occasions, this candle combo is a unique and luxurious present that stands out. The artistic craftsmanship and soothing presence make it ideal for home décor lovers and thoughtful gifting.",
+    "scent": "Vanilla",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "dfb00f5c-e145-4dfe-9890-aafa66586dc4",
+        "color": "Soft Peach",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/floral-artisan-candle-gift-box-handmade-decorative-candle-set-v1-1776617310830.jpeg",
+            "alt": "floral candle gift box handmade candle set decorative flower candles combo gift set aesthetic candles"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Floral Candle Gift Box | Handmade Decorative Candle Combo Set",
+    "seoDescription": "Shop handcrafted floral candle gift boxes perfect for gifting. सुंदर decorative candle combo for birthdays, anniversaries & special occasions.",
+    "seoKeywords": "candle gift set, floral candles, handmade candle combo, decorative candles set, gift box candles, aesthetic candles, flower shape candles, luxury candle gift, unique candle set, home decor candles India, gifting candles, artisan candles, birthday gift candle set, anniversary gift candles, premium candle combo",
+    "order": 10
+  },
+  {
+    "id": "d85dbbe4-59f5-4a44-9c43-b289495a66d6",
+    "slug": "enchanted-forest-gel-candle",
+    "name": "Enchanted Forest Gel Candle",
+    "price": 799,
+    "weight": "300g",
+    "dimensions": {
+      "length": "8",
+      "width": "8",
+      "height": "7"
+    },
+    "shortDescription": "A nature-inspired gel candle with dried flowers, green accents, and a soft pink wax top—bringing the calming beauty of a forest into your space.",
+    "longDescription": "Immerse yourself in the serene beauty of nature with our Enchanted Forest Gel Candle. This handcrafted candle features a crystal-clear gel base embedded with delicate dried flowers and lush green elements, evoking the peaceful essence of a forest floor.\r\n\r\nTopped with a soft pink wax layer, the candle creates a beautiful contrast between earthy and elegant tones. Encased in a clear glass vessel, every detail is visible—making it a stunning decorative piece as well as a soothing source of light.\r\n\r\nPerfect for nature lovers, home décor enthusiasts, or as a thoughtful gift, this candle brings a touch of tranquility and organic charm to any room. Whether you're unwinding after a long day or setting a cozy mood, the Enchanted Forest Gel Candle transforms your space into a calming retreat.",
+    "scent": "Rose",
+    "material": "Gel Wax",
+    "variants": [
+      {
+        "id": "ed9e95ab-f1d8-4d95-8c48-6049594a481c",
+        "color": "Multicolor",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/enchanted-forest-gel-candle-v1-1776618366729.jpeg",
+            "alt": "forest theme gel candle with dried flowers green base and pink wax top in clear glass cup"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Enchanted Forest Gel Candle – Nature Inspired Decorative Candle with Dried Flowers",
+    "seoDescription": "Shop the Enchanted Forest Gel Candle with dried flowers, green accents, and pink wax top. A perfect nature-inspired décor piece and unique handmade gift.",
+    "seoKeywords": "forest theme candle, gel candle with dried flowers, nature inspired candle, botanical candle, handmade candle, aesthetic candles, green decor candle, floral gel candle, unique gift candle, artisan candle, home decor candle, natural theme candle, decorative glass candle, calming candles, eco inspired candle",
+    "order": 11
+  },
+  {
+    "id": "3380477f-9fc6-4361-a5b4-d6b71cbfb31c",
+    "slug": "blush-peony-sculpted-candle",
+    "name": "Blush Peony Sculpted Candle",
+    "price": 129,
+    "weight": "45g",
+    "dimensions": {
+      "length": "7",
+      "width": "7",
+      "height": "2"
+    },
+    "shortDescription": "A beautifully sculpted peony-shaped candle in a soft blush tone, designed to add elegance and charm to any space.",
+    "longDescription": "Introduce timeless elegance to your décor with our Blush Peony Sculpted Candle. Expertly handcrafted to resemble a blooming peony flower, this candle is a true piece of art. Its delicate petal detailing and soft pink hue create a soothing and luxurious aesthetic, perfect for modern homes and thoughtful gifting.\r\n\r\nUnlike traditional candles, this sculptural piece doubles as décor—even when unlit. Whether styled on a coffee table, bedside, or vanity, it adds a soft, romantic touch to your surroundings.\r\n\r\nIdeal for gifting, self-care moments, or aesthetic home styling, this candle is designed for those who appreciate beauty in every detail.\r\n\r\nKey Features\r\n🌸 Intricately sculpted peony flower design\r\n🎨 Soft blush pink pastel color\r\n🕯️ Clean and slow burn\r\n🏡 Doubles as decorative art piece\r\n🎁 Perfect for gifting and aesthetic décor",
+    "scent": "Rose",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "5eb3d81b-b0fe-40d8-a415-f2a4072a2b6f",
+        "color": "Pink",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/blush-peony-sculpted-candle-v1-1776611502115.jpeg",
+            "alt": "Blush pink peony shaped decorative candle with floral styling on soft textured background"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "id": "7920c3f8-303f-4bbb-ac13-b77fd46e7451",
+        "color": "Mulicolor",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/blush-peony-sculpted-candle-v2-1776611502117.jpeg",
+            "alt": "Blush multicolor peony shaped decorative candles with floral styling on soft textured background"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "id": "b2a0c5e7-3050-4510-bac3-d1f6c0558703",
+        "color": "White & Gold",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/blush-peony-sculpted-candle-v3-1776611502121.jpeg",
+            "alt": "Blush multicolor peony shaped decorative candles with floral styling on soft textured background"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Peony Shaped Decorative Candle – Blush Pink Floral Sculpted Candle for Home Décor",
+    "seoDescription": "Shop elegant peony-shaped candles in blush pink. Perfect for aesthetic home décor, gifting, and creating a soft, calming ambiance.",
+    "seoKeywords": "peony candle, flower shaped candle, blush pink candle, decorative sculpted candle, aesthetic candles, handmade candles India, floral wax candle, home decor candle, pastel candles, luxury candles India, gift candles, artistic candles, statement candles, minimal decor candles, modern home candles",
+    "order": 12
+  },
+  {
+    "id": "31375e3d-41b5-403e-b4df-cb895839c7ef",
+    "slug": "ocean-shell-gel-candle-beach-theme-decorative-candle",
+    "name": "Ocean Shell Gel Candle – Beach Theme Decorative Candle",
+    "price": 399,
+    "weight": "250g",
+    "dimensions": {
+      "length": "6",
+      "width": "6",
+      "height": "7"
+    },
+    "shortDescription": "A beautiful transparent gel candle with real seashells, bringing calming beach vibes into your space.",
+    "longDescription": "Bring the serenity of the ocean into your home with our Ocean Shell Gel Candle. Crafted with crystal-clear gel wax, this candle showcases delicate seashells embedded inside, creating a stunning underwater effect that instantly elevates your décor.\r\n\r\nPerfect for adding a coastal touch to your living room, bedroom, or bathroom, this candle is designed to create a relaxing and peaceful ambiance. The transparent design allows the intricate shell details to shine through, making it both a candle and a decorative piece.\r\n\r\nIdeal for gifting, home décor, or creating a spa-like atmosphere, this ocean-inspired candle captures the beauty of the sea in a unique and elegant way. Whether lit or unlit, it adds charm and tranquility to any space.",
+    "scent": "Ocean",
+    "material": "Gel Wax",
+    "variants": [
+      {
+        "id": "9e89e27b-b0c1-47c0-967b-f526f7577b90",
+        "color": "Blue",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/ocean-shell-gel-candle-beach-theme-decorative-candle-v1-1776617044304.jpeg",
+            "alt": "ocean gel candle with shells transparent candle beach theme decorative candle seashell candle glass jar"
+          },
+          {
+            "url": "/products/ocean-shell-gel-candle-beach-theme-decorative-candle-v1-1776617044307.jpeg",
+            "alt": "ocean gel candle with shells transparent candle beach theme decorative candle seashell candle glass jar"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Ocean Shell Gel Candle | Beach Theme Decorative Candle",
+    "seoDescription": "Shop ocean-inspired gel candles with real seashells. Perfect for home décor, gifting, and creating a relaxing beach vibe ambiance.",
+    "seoKeywords": "gel candle, ocean candle, seashell candle, beach theme candle, decorative candle, transparent candle, shell candle gift, coastal decor candle, handmade gel candle, aesthetic candle, home decor candle India, beach vibe candle, unique candle gift, sea shell decor candle, glass jar candle",
+    "order": 13
+  },
+  {
+    "id": "0b4e56ea-d0af-440d-b787-86cabde165a2",
+    "slug": "teddy-bear-heart-candle-cute-gift-candle",
+    "name": "Teddy Bear Heart Candle – Cute Gift Candle",
+    "price": 99,
+    "weight": "46g",
+    "dimensions": {
+      "length": "4",
+      "width": "3",
+      "height": "6"
+    },
+    "shortDescription": "Adorable teddy bear candles holding a heart, perfect for gifting and adding a cute aesthetic to any space.",
+    "longDescription": "Add a touch of cuteness and charm to your space with our Teddy Bear Heart Candle. Designed with a lovable teddy bear holding a heart, this candle is perfect for expressing love, warmth, and affection.\r\n\r\nAvailable in beautiful pastel shades like soft purple and baby blue, these candles are ideal for gifting on special occasions such as birthdays, anniversaries, Valentine’s Day, or simply as a thoughtful surprise. The intricate floral texture on the teddy adds a unique handcrafted feel, making it both a decorative piece and a functional candle.\r\n\r\nWhether placed on a bedside table, shelf, or gifted to someone special, this candle brings cozy vibes and aesthetic appeal to any setting.",
+    "scent": "Lavender",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "710a5897-28d8-4a8e-adac-544cb7ee0aff",
+        "color": "Multicolor",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/teddy-bear-heart-candle-cute-gift-candle-v1-1776617487934.jpeg",
+            "alt": "teddy bear candle with heart cute candle gift pastel teddy candle decorative candle gift aesthetic candle"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Teddy Bear Heart Candle | Cute Gift & Decorative Candle",
+    "seoDescription": "Shop cute teddy bear candles holding a heart. Perfect for gifting, décor, and special occasions like birthdays & Valentine’s Day.",
+    "seoKeywords": "teddy bear candle, cute candle gift, heart candle, teddy candle gift, aesthetic candle, decorative candle, pastel candle, handmade candle India, gift candle for her, romantic gift candle, valentine candle, unique candle gift, cute home decor, bear candle, small gift candle",
+    "order": 14
+  },
+  {
+    "id": "3",
+    "slug": "floral-tin-candle-collection",
+    "name": "Floral Tin Candle Collection",
+    "price": 349,
+    "weight": "125g",
+    "dimensions": {
+      "length": "7",
+      "width": "7",
+      "height": "5"
+    },
+    "shortDescription": "Beautiful floral-shaped scented candles set in decorative printed tins with lids. Perfect for gifting, home décor, and festive occasions.",
+    "longDescription": "Add a burst of color and elegance to your space with the FloraLuxe Tin Candle collection. Each candle is carefully crafted with intricate floral designs, set inside vibrant decorative tins featuring artistic patterns and matching lids.\r\n\r\nThe detailed flower-shaped wax adds a premium handcrafted feel, while the compact tin design makes it perfect for both décor and travel. Ideal for festive celebrations, return gifts, or everyday home styling, these candles bring charm and warmth to any setting.\r\n\r\nAvailable in multiple colors and floral styles, each piece is designed to be both functional and visually delightful.\r\n\r\nWhy you'll love it:\r\n✔ Decorative reusable tin with lid\r\n✔ Handcrafted floral wax design\r\n✔ Perfect for gifting & return favors\r\n✔ Compact & travel-friendly",
+    "scent": "Lavender",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "3-v1",
+        "color": "Green",
+        "gradientFrom": "#e0f2fe",
+        "gradientVia": "#38bdf8",
+        "gradientTo": "#0284c7",
+        "images": [
+          {
+            "url": "/products/floral-tin-candle-collection-v1-1776600626946.jpeg",
+            "alt": "floral scented candle in decorative tin with lid pastel design candle for home decor"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "id": "3-v2",
+        "color": "Multicolor",
+        "gradientFrom": "#ccfbf1",
+        "gradientVia": "#2dd4bf",
+        "gradientTo": "#0f766e",
+        "images": [
+          {
+            "url": "/products/floral-tin-candle-collection-v2-1776600626952.jpeg",
+            "alt": "colorful floral scented candles in decorative tins with lids arranged together for home decor and gifting"
+          }
+        ],
+        "videos": []
+      },
+      {
+        "id": "146987d7-0a41-4a8b-9ad7-07225fc408f6",
+        "color": "Orange",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/floral-tin-candle-collection-v3-1776600626954.jpeg",
+            "alt": "floral scented candle in decorative tin with lid pastel design candle for home decor"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Floral Tin Scented Candles with Lid | Decorative Gift Candles for Home & Festive Use",
+    "seoDescription": "Shop beautiful floral scented candles in decorative tins with lids. Perfect for gifting, festive décor, and adding charm to your home.",
+    "seoKeywords": "floral tin candles, scented candles in tin, decorative candles with lid, gift candles India, aesthetic candles for home decor, handmade candles India, festive candles for gifting, colorful candles set, designer candles in tin, small decorative candles, return gift candles, floral shape candles, premium scented candles, home decor candles India, unique gift candles, decorative tin candles with lid",
+    "order": 15
+  },
+  {
+    "id": "23397741-0d3b-4b79-af9a-01a789a4c948",
+    "slug": "ocean-love-gel-candle",
+    "name": "Ocean Love Gel Candle",
+    "price": 499,
+    "weight": "250g",
+    "dimensions": {
+      "length": "6",
+      "width": "6",
+      "height": "7"
+    },
+    "shortDescription": "A beautiful ocean-inspired gel candle featuring blue heart embeds, a white wax top, and rustic twine detailing—perfect for adding a romantic, calming touch.",
+    "longDescription": "Add a touch of romance and serenity to your space with our Ocean Love Gel Candle. This handcrafted piece features a transparent blue gel base filled with charming heart-shaped embeds, creating a visually captivating design inspired by the ocean.\r\n\r\nThe candle is topped with a smooth white wax layer and encased in a clear glass container, wrapped with rustic jute twine for a natural, cozy finish. The delicate balance of modern elegance and handmade charm makes it perfect for home décor, special occasions, or heartfelt gifting.\r\n\r\nWhether you're setting a relaxing mood or looking for a thoughtful present, this candle brings warmth, beauty, and a subtle romantic vibe to any setting.",
+    "scent": "Ocean",
+    "material": "Gel & Soy Wax",
+    "variants": [
+      {
+        "id": "8b186ed7-6c28-4f6c-b483-9043c37951f9",
+        "color": "Ocean",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/ocean-love-gel-candle-v1-1776618154175.jpeg",
+            "alt": "blue gel candle with heart shapes inside glass cup white wax top and rustic twine decoration with gold leaf accents"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Ocean Love Gel Candle with Blue Hearts – Decorative Glass Candle | Romantic Handmade Candle",
+    "seoDescription": "Discover the Ocean Love Gel Candle with blue heart embeds, white wax top, and rustic twine design. Perfect romantic gift and elegant home décor piece.",
+    "seoKeywords": "blue heart gel candle, heart candle gift, romantic candle, gel wax candle with hearts, decorative glass candle, handmade candle, ocean themed candle, aesthetic candle, unique gift idea, love themed candle, home decor candle, artisan candle, romantic decor, elegant candle design, cute candles",
+    "order": 16
+  },
+  {
+    "id": "e1de4d5c-7977-415f-97cb-2b3a056d0561",
+    "slug": "blush-bloom-floral-candle",
+    "name": "Blush Bloom Floral Candle",
+    "price": 499,
+    "weight": "410g",
+    "dimensions": {
+      "length": "7",
+      "width": "7",
+      "height": "6"
+    },
+    "shortDescription": "A delicate floral candle featuring a handcrafted pink flower design set in a creamy wax base, housed in an elegant glass container.",
+    "longDescription": "Add a touch of elegance and softness to your space with our Blush Bloom Floral Candle. This beautifully handcrafted candle showcases a detailed pink flower design blooming atop a smooth, creamy wax base, creating a visually stunning centerpiece.\r\n\r\nEncased in a premium glass container with a decorative lid, this candle blends sophistication with charm. Its floral aesthetic makes it perfect for enhancing home décor, gifting on special occasions, or simply creating a warm and inviting atmosphere.\r\n\r\nWhether placed on a coffee table, bedside, or vanity, the Blush Bloom Floral Candle brings a graceful, romantic vibe to any setting. It’s more than just a candle—it’s a piece of art designed to elevate your space.",
+    "scent": "Rose",
+    "material": "Soy Wax",
+    "variants": [
+      {
+        "id": "5bd4a113-b139-4e99-93e8-f4ffdde925ab",
+        "color": "White & Pink",
+        "gradientFrom": "#fef9c3",
+        "gradientVia": "#fbbf24",
+        "gradientTo": "#d97706",
+        "images": [
+          {
+            "url": "/products/blush-bloom-floral-candle-v1-1776618535411.jpeg",
+            "alt": "pink flower candle in square glass container with lid decorative floral wax candle elegant home decor"
+          },
+          {
+            "url": "/products/blush-bloom-floral-candle-v1-1776618535413.jpeg",
+            "alt": "pink flower candle in square glass container with lid decorative floral wax candle elegant home decor"
+          }
+        ],
+        "videos": []
+      }
+    ],
+    "seoTitle": "Blush Bloom Floral Candle – Pink Flower Candle in Glass Jar | Elegant Handmade Candle",
+    "seoDescription": "Shop the Blush Bloom Floral Candle featuring a handcrafted pink flower design in a glass container. Perfect for home décor, gifting, and elegant ambiance.",
+    "seoKeywords": "floral candle, flower candle, pink flower candle, decorative candle in glass, handmade candle, aesthetic candle, luxury candle gift, elegant candle, home decor candle, artisan candle, romantic candle, unique gift candle, square glass candle, floral decor candle, designer candle",
+    "order": 17
+  }
+]

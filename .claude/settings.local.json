@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm \"c:/Users/Shaily Agarwal/Desktop/labelshaily/app/products/[slug]/page.tsx\")",
+      "Bash(rmdir \"c:/Users/Shaily Agarwal/Desktop/labelshaily/app/products/[slug]\")",
+      "Bash(npm run *)",
+      "Bash(npx tsc *)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Shaily Agarwal\\Desktop\\labelshaily\\app\\admin"
+    ]
+  }
+}
