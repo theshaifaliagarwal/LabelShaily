@@ -64,10 +64,10 @@ export default function HeroSection() {
             loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-6'
           }`}
         >
-          Illuminate Your
+          Luxury Scented
           <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-orange-400">
-            World
+            Candles in India
           </span>
         </h1>
 

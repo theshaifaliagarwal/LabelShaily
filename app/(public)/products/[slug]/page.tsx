@@ -120,10 +120,11 @@ export default async function ProductPage({
             <h1 className="font-playfair text-4xl md:text-5xl font-bold text-green-900 mb-4">
               {candle.name}
             </h1>
-            <div className="flex items-center gap-4 mb-6">
+            <div className="flex items-center gap-4 mb-2">
               <span className="text-3xl font-bold text-green-700">₹{candle.price}</span>
               <span className="text-green-700/40 text-sm">Incl. of all taxes</span>
             </div>
+            <p className="text-green-800/60 text-sm mb-6">Pan India shipping • WhatsApp us for details</p>
 
             <p className="text-green-800/70 leading-relaxed mb-8 text-base whitespace-pre-line">
               {candle.longDescription}

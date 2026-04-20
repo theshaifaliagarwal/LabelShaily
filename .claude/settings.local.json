@@ -4,7 +4,11 @@
       "Bash(rm \"c:/Users/Shaily Agarwal/Desktop/labelshaily/app/products/[slug]/page.tsx\")",
       "Bash(rmdir \"c:/Users/Shaily Agarwal/Desktop/labelshaily/app/products/[slug]\")",
       "Bash(npm run *)",
-      "Bash(npx tsc *)"
+      "Bash(npx tsc *)",
+      "Read(//c/Users/Shaily Agarwal/Desktop/**)",
+      "Bash(rm -rf .next)",
+      "Bash(NEXT_STATIC=1 npx next build)",
+      "Bash(node build-static.js)"
     ],
     "additionalDirectories": [
       "c:\\Users\\Shaily Agarwal\\Desktop\\labelshaily\\app\\admin"

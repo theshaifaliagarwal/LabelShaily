@@ -6,8 +6,8 @@ import TestimonialsCarousel from '@/app/components/TestimonialsCarousel';
 import { getAllProducts } from '@/app/lib/data';
 
 export const metadata: Metadata = {
-  title: 'LabelShaily — Handcrafted Candles',
-  description: 'Browse our full collection of premium handcrafted candles — soy wax, gel wax, coconut wax & beeswax. Beautifully scented, hand-poured in small batches.',
+  title: { absolute: 'Buy Scented Candles Online in India | Handmade Soy Candles – LabelShaily' },
+  description: 'Buy handmade scented candles online in India. Premium soy, gel & beeswax candles for gifting, home decor & relaxation. Shop LabelShaily.',
   keywords: [
     'buy candles online India', 'scented candles', 'handmade candles', 'soy candles',
     'coconut wax candles', 'gel wax candles', 'candle shop India', 'LabelShaily collection',
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     url: 'https://labelshaily.com',
-    title: 'LabelShaily — Handcrafted Candles Collection',
+    title: 'Buy Scented Candles Online in India | Handmade Soy Candles – LabelShaily',
     description: 'Browse our full collection of premium handcrafted candles.',
     images: [{ url: '/logo.jpeg', width: 400, height: 400, alt: 'LabelShaily Candles' }],
   },
@@ -102,6 +102,60 @@ export default function Home() {
             </div>
           </AnimatedSection>
           <TestimonialsCarousel />
+        </div>
+      </section>
+
+      {/* FAQ */}
+      <section className="py-20 px-6 bg-white">
+        <div className="max-w-3xl mx-auto">
+          <AnimatedSection>
+            <div className="text-center mb-14">
+              <p className="text-green-600 tracking-[0.3em] uppercase text-xs font-light mb-3">Got Questions?</p>
+              <h2 className="font-playfair text-4xl font-bold text-green-900 mb-4">Frequently Asked Questions</h2>
+              <div className="w-16 h-0.5 bg-gradient-to-r from-transparent via-green-500 to-transparent mx-auto" />
+            </div>
+          </AnimatedSection>
+
+          <div className="space-y-4">
+            {[
+              {
+                q: 'What type of wax do you use?',
+                a: 'We use a blend of natural soy wax, coconut wax, and beeswax depending on the candle variant. All our waxes are non-toxic and burn cleanly.',
+              },
+              {
+                q: 'How long do your candles burn?',
+                a: 'Burn time varies by size — our standard candles burn for 40–50 hours, while travel tins last 20–25 hours. Each product page lists the estimated burn time.',
+              },
+              {
+                q: 'Are your candles safe for pets and children?',
+                a: 'Our candles are made with natural waxes and phthalate-free fragrance oils. As with any open flame, we recommend keeping candles out of reach of children and pets.',
+              },
+              {
+                q: 'Do you offer custom or gift orders?',
+                a: 'Yes! We love creating custom candles for weddings, birthdays, and corporate gifting. Reach out to us on WhatsApp or Instagram to discuss your requirements.',
+              },
+              {
+                q: 'How should I care for my candle?',
+                a: 'Trim the wick to 5 mm before each burn, allow the wax to pool to the edges on the first use to prevent tunnelling, and never burn for more than 4 hours at a stretch.',
+              },
+              {
+                q: 'Do you ship across India?',
+                a: 'Yes, we ship pan-India. Orders are carefully packed to ensure safe delivery. Shipping timelines are mentioned at checkout.',
+              },
+            ].map(({ q, a }, i) => (
+              <AnimatedSection key={i} delay={i * 60}>
+                <details className="group border border-green-100 rounded-2xl overflow-hidden">
+                  <summary className="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none bg-[#f9fdf9] hover:bg-[#f0f7f2] transition-colors">
+                    <span className="font-semibold text-green-900 text-sm md:text-base">{q}</span>
+                    <span className="shrink-0 text-green-600 text-xl font-light transition-transform duration-300 group-open:rotate-45">+</span>
+                  </summary>
+                  <div className="px-6 pb-5 pt-3 text-green-800/70 text-sm leading-relaxed bg-white">
+                    {a}
+                  </div>
+                </details>
+              </AnimatedSection>
+            ))}
+          </div>
         </div>
       </section>
     </>

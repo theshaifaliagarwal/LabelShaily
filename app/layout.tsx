@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Playfair_Display, Inter } from 'next/font/google';
+import Script from 'next/script';
 import './globals.css';
 
 const playfair = Playfair_Display({
@@ -17,7 +18,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://labelshaily.com'),
   title: {
-    default: 'LabelShaily — Handcrafted Candles',
+    default: 'Buy Scented Candles Online in India | Handmade Soy Candles – LabelShaily',
     template: '%s | LabelShaily',
   },
   description: 'Shop premium handcrafted candles made from natural soy, coconut & beeswax with curated fragrances. Hand-poured in small batches. Free delivery across India.',
@@ -31,13 +32,13 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_IN',
     url: 'https://labelshaily.com',
-    title: 'LabelShaily — Handcrafted Candles',
+    title: 'Buy Scented Candles Online in India | Handmade Soy Candles – LabelShaily',
     description: 'Premium handcrafted candles made from natural soy, coconut & beeswax. Shop online from LabelShaily.',
-    images: [{ url: '/logo.jpeg', width: 400, height: 400, alt: 'LabelShaily — Handcrafted Candles' }],
+    images: [{ url: '/logo.jpeg', width: 400, height: 400, alt: 'Buy Scented Candles Online in India | Handmade Soy Candles – LabelShaily' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'LabelShaily — Handcrafted Candles',
+    title: 'Buy Scented Candles Online in India | Handmade Soy Candles – LabelShaily',
     description: 'Premium handcrafted candles made from natural soy, coconut & beeswax. Shop online.',
     images: ['/logo.jpeg'],
   },
@@ -52,7 +53,16 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="shortcut icon" type="image/jpeg" href="/logo.jpeg" />
         <link rel="apple-touch-icon" href="/logo.jpeg" />
       </head>
-      <body className="antialiased">{children}</body>
+      <body className="antialiased">
+        {children}
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-V7RM63WFEZ" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">{`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-V7RM63WFEZ');
+        `}</Script>
+      </body>
     </html>
   );
 }
